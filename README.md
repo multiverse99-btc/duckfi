@@ -90,3 +90,25 @@ Bug reports and feature proposals are always appreciated.
 MIT © 2025 DuckFi Labs
 All software is released under the MIT license — free to use, modify, and distribute.
 
+---
+
+## ☕ Support / Donate
+
+If you’d like to help sustain DuckFi’s open development,  
+you can donate directly via **crypto** 💎
+
+| ETH | Solana |
+|:--:|:--:|
+| `0x3c9031e5eE5eC7053F978D039106F48AeB713Bd5` | `4CUebzqik8YrfMq7ZCi7pCMBs6aUGherg3A4ikfwXHsP` |
+
+---
+
+Or support by holding **$BJBN (Bejibun)** —  
+[Buy here](https://pump.fun) _(beware of fake links or bots!)_
+
+---
+
+> Every small contribution helps keep DuckFi open-source and community-driven 🦆  
+> Thank you for helping build decentralized analytics for the world 🌍
+
+
