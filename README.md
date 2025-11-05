@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/duckfi/main/assets/banner.png" width="640" alt="DuckFi Banner">
-</p>
+
 
 <h1 align="center">🦆 DuckFi — Decentralized Analytics Infrastructure</h1>
 
