@@ -76,9 +76,7 @@ We maintain the reference implementation and support community contributors buil
 # 📬 Join us:
 
 Discussions: GitHub Discussions
-
-Twitter: @duckfi_network
-
+Twitter: (coming soon)
 Discord: (coming soon)
 
 ## 🤝 Contributing
@@ -86,20 +84,6 @@ Discord: (coming soon)
 We welcome contributions!
 Fork the repo, check CONTRIBUTING.md, and send a PR.
 Bug reports and feature proposals are always appreciated.
-
-## 🧱 Project Structure
-duckfi/
-├── README.md
-├── whitepaper/
-│   └── DuckFi_Whitepaper_v0.1.md
-├── docs/
-│   ├── architecture.md
-│   ├── tokenomics.md
-│   └── roadmap.md
-└── src/
-    ├── wasm-node/
-    ├── mesh-network/
-    └── wallet-integration/
 
 ## 📜 License
 
