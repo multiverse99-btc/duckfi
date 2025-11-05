@@ -101,10 +101,6 @@ you can donate directly via **crypto** 💎
 |:--:|:--:|
 | `0x3c9031e5eE5eC7053F978D039106F48AeB713Bd5` | `4CUebzqik8YrfMq7ZCi7pCMBs6aUGherg3A4ikfwXHsP` |
 
----
-
-Or support by holding **$BJBN (Bejibun)** —  
-[Buy here](https://pump.fun) _(beware of fake links or bots!)_
 
 ---
 
