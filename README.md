@@ -56,23 +56,24 @@ git clone https://github.com/yourusername/duckfi.git
 cd duckfi
 npm install
 npm run dev
-Then open http://localhost:5173
- to launch the DuckFi WASM node demo.
 ```
+Then open http://localhost:5173 to launch the DuckFi WASM node demo.
 
-🗺 Roadmap
+
+## 🗺 Roadmap
 Phase	Target	Milestone
 P1	Q1 2026	Browser MVP + wallet integration
 P2	Q2 2026	Mesh federation prototype
 P3	Q3 2026	Token launch + DAO portal
 P4	Q4 2026	Plugin marketplace & analytics studio
 P5	2027+	ZK-verified compute & enterprise SDK
-👥 Team & Community
+
+## 👥 Team & Community
 
 DuckFi Labs is a collective of open-source engineers, data scientists, and distributed-systems researchers across Europe & SEA.
 We maintain the reference implementation and support community contributors building connectors, dashboards, and educational resources.
 
-📬 Join us:
+# 📬 Join us:
 
 Discussions: GitHub Discussions
 
@@ -80,14 +81,13 @@ Twitter: @duckfi_network
 
 Discord: (coming soon)
 
-🤝 Contributing
+## 🤝 Contributing
 
 We welcome contributions!
-Fork the repo, check CONTRIBUTING.md
-, and send a PR.
+Fork the repo, check CONTRIBUTING.md, and send a PR.
 Bug reports and feature proposals are always appreciated.
 
-🧱 Project Structure
+## 🧱 Project Structure
 duckfi/
 ├── README.md
 ├── whitepaper/
@@ -101,7 +101,7 @@ duckfi/
     ├── mesh-network/
     └── wallet-integration/
 
-📜 License
+## 📜 License
 
 MIT © 2025 DuckFi Labs
 All software is released under the MIT license — free to use, modify, and distribute.
