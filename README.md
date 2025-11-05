@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/duckfi/stargazers"><img src="https://img.shields.io/github/stars/yourusername/duckfi?style=social" /></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
   <a href="#"><img src="https://img.shields.io/badge/build-passing-brightgreen" /></a>
   <a href="#"><img src="https://img.shields.io/badge/version-v0.1-lightgrey" /></a>
