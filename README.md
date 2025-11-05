@@ -90,4 +90,3 @@ Bug reports and feature proposals are always appreciated.
 MIT © 2025 DuckFi Labs
 All software is released under the MIT license — free to use, modify, and distribute.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/yourusername/duckfi/main/assets/footer.png" width="180" alt="DuckFi Footer Logo"> </p> ```
