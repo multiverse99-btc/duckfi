@@ -98,8 +98,10 @@ If you’d like to help sustain DuckFi’s open development,
 you can donate directly via **crypto** 💎
 
 | SOL | ETH |
-| <img src="https://raw.githubusercontent.com/multiverse99-btc/duckfi/main/images/sol.png" width="40"/> | <img src="https://raw.githubusercontent.com/multiverse99-btc/duckfi/main/images/eth.png" width="40"/> |
+|:--:|:--:|
+| <img src="https://raw.githubusercontent.com/multiverse99-btc/duckfi/main/images/sol.png" width="60"/> | <img src="https://raw.githubusercontent.com/multiverse99-btc/duckfi/main/images/eth.png" width="60"/> |
 | `6i7QPjReTAnbmhFKEa2wHhUmBf2QDyQbTWHPAq6fWAuD` | `0xCE18BfDa1C0327678e5a2C005Be82f20e9493b70` |
+
 
 
 
