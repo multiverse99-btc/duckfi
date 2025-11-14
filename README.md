@@ -97,9 +97,10 @@ All software is released under the MIT license — free to use, modify, and dist
 If you’d like to help sustain DuckFi’s open development,  
 you can donate directly via **crypto** 💎
 
-| ETH | Solana |
-|:--:|:--:|
-| `0x3c9031e5eE5eC7053F978D039106F48AeB713Bd5` | `4CUebzqik8YrfMq7ZCi7pCMBs6aUGherg3A4ikfwXHsP` |
+| SOL | ETH |
+| <img src="https://raw.githubusercontent.com/multiverse99-btc/duckfi/main/images/sol.png" width="40"/> | <img src="https://raw.githubusercontent.com/multiverse99-btc/duckfi/main/images/eth.png" width="40"/> |
+| `6i7QPjReTAnbmhFKEa2wHhUmBf2QDyQbTWHPAq6fWAuD` | `0xCE18BfDa1C0327678e5a2C005Be82f20e9493b70` |
+
 
 
 ---
